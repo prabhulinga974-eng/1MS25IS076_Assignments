@@ -1,7 +1,6 @@
 # Programming Assignments
 
-**USN:** 1MS25IS076  
-**Student:** Prabhulinga  
+**USN:** 1MS25IS076    
 **Branch:** Information Science and Engineering  
 **College:** M. S. Ramaiah Institute of Technology (MSRIT)
 
