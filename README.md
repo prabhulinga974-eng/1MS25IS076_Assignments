@@ -1,55 +1,28 @@
-# Programming Assignments
+This repository contains the assignments completed as part of my academic coursework.
 
-**USN:** 1MS25IS076    
-**Branch:** Information Science and Engineering  
-**College:** M. S. Ramaiah Institute of Technology (MSRIT)
-
-## 📚 About This Repository
-
-This repository contains my programming assignments completed as part of my engineering coursework. It includes source code organized into separate folders for easy access and reference.
-
-## 📂 Repository Structure
-
-```text
+📂 Repository Structure
 1MS25IS076_Assignments/
 │
-├── Assignment_1/
-│   ├── Program files
-│   └── README.md
+├── Assignment1/
+│   ├── src/
+│   ├── package.json
+│   ├── server.ts
+│   └── ...
 │
-├── Assignment_2/
-│   ├── Program files
-│   └── README.md
+├── Assignment2/
+│   └── agent_loop_demo.ipynb
 │
 └── README.md
-```
+📌 Assignments
+Assignment 1
+Contains the project implementation, source code, and configuration files.
 
-## 📝 Assignments
+Technologies: TypeScript, React, Vite, and Bun.
 
-### Assignment 1
-- Contains all programs and solutions for Assignment 1.
-- Source code is organized in the `Assignment_1` folder.
+Assignment 2
+Contains the Jupyter Notebook demonstrating the Agent Loop implementation.
 
-### Assignment 2
-- Contains all programs and solutions for Assignment 2.
-- Source code is organized in the `Assignment_2` folder.
+File: agent_loop_demo.ipynb
 
-## 💻 Technologies Used
-- Programming Language: Java
-- IDE: Eclipse
-
-## ▶️ How to Run
-1. Clone or download this repository.
-2. Open the project files in Eclipse IDE.
-3. Select the required Java program.
-4. Run the program to view the output.
-
-## 🎯 Purpose
-
-The purpose of these assignments is to improve programming knowledge, problem-solving skills, and practical implementation.
-
----
-
-**Submitted by:** Prabhulinga  
-**USN:** 1MS25IS076  
-**Department:** Information Science and Engineering
+🚀 Purpose
+This repository is maintained to organize and submit academic assignments in a single place.
